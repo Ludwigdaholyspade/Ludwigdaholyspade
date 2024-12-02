@@ -25,11 +25,12 @@
 ###
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|        Who am I               |     Skills         |                hobbies               |
+| -----------------------------:| ------------------:|--------------------------------------|
+|   i am a young fellow         | intermediate css   |     Bike driving                     |
+|   in a old fellow world       | intermediate java  |     Farming                          |
+|  just trying to learn more    | intermediate python|     Reading (i know very surprising) |
+|  i also enjoy driving my bike | intermediate c++   |     mechanics, i enjoy fixing fixing |
 
 
 <div align="left">
