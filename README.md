@@ -24,13 +24,12 @@
 
 ###
 
-
-  color = red   |        Who am I               |     Skills         |                hobbies               |
-                | -----------------------------:| ------------------:|--------------------------------------|
-                |   i am a young fellow         | intermediate css   |     Bike driving                     |
-                |   in a old fellow world       | intermediate java  |     Farming                          |
-                |  just trying to learn more    | intermediate python|     Reading (i know very surprising) |
-                |  i also enjoy driving my bike | intermediate c++   |     mechanics, i enjoy fixing fixing |
+|        Who am I               |     Skills         |                hobbies               |
+| -----------------------------:| ------------------:|--------------------------------------|
+|   i am a young fellow         | intermediate css   |     Bike driving                     |
+|   in a old fellow world       | intermediate java  |     Farming                          |
+|  just trying to learn more    | intermediate python|     Reading (i know very surprising) |
+|  i also enjoy driving my bike | intermediate c++   |     mechanics, i enjoy fixing fixing |
 
 
 <div align="left">
