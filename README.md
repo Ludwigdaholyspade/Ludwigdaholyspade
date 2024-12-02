@@ -7,7 +7,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://wallpapercave.com/wp/wp5408757.jpg" height="30" alt="tarkov"  />
+   <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" height="30" alt="c++"  />
+   <img src="[https://wallpapercave.com/wp/wp5408757.jpg](https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png)" height="30" alt="java scr"  />
 </div>
 
 ###
