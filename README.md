@@ -1,4 +1,7 @@
-<h2 align="left"> My name is LudwigDaholySpade and I am currently a student in the fai lands of wales</h2>
+<h2 align="left"> My name is LudwigDaholySpade or sebastian and I am currently a student in wales</h2>
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ###
 
