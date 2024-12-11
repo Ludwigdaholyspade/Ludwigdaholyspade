@@ -18,7 +18,7 @@
 |   i am Seb H, a intermediate      | intermediate css   |     Bike driving                     |
 |         level programmer          | intermediate java  |     Farming                          |
 |  i am trying to learn more        | intermediate python|     Reading (i know very surprising) |
-|  codeing languages and techniques | intermediate c++   |     mechanics, i enjoy fixing fixing |
+|  codeing languages and techniques | intermediate c++   |     codeing, i enjoy coding things   |
 
 
 
