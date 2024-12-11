@@ -7,19 +7,17 @@
 ###
 
 <div align="left">
-  <img src="https://wallpapercave.com/wp/wp5408757.jpg" height="30" alt="tarkov"  />
    <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" height="30" alt="c++"  />
-   <img src="[https://wallpapercave.com/wp/wp5408757.jpg](https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png)" height="30" alt="java scr"  />
 </div>
 
 ###
 
-|        Who am I               |     Skills         |                hobbies               |
-| -----------------------------:| ------------------:|--------------------------------------|
-|   i am a young fellow         | intermediate css   |     Bike driving                     |
-|   in a old fellow world       | intermediate java  |     Farming                          |
-|  just trying to learn more    | intermediate python|     Reading (i know very surprising) |
-|  i also enjoy driving my bike | intermediate c++   |     mechanics, i enjoy fixing fixing |
+|             Who am I              |     Skills         |                hobbies               |
+| ---------------------------------:| ------------------:|--------------------------------------|
+|   i am Seb H, a intermediate      | intermediate css   |     Bike driving                     |
+|         level programmer          | intermediate java  |     Farming                          |
+|  i am trying to learn more        | intermediate python|     Reading (i know very surprising) |
+|  codeing languages and techniques | intermediate c++   |     mechanics, i enjoy fixing fixing |
 
 
 <div align="left">
